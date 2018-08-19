@@ -1,4 +1,4 @@
-let symbol = 20;
+let symbol = 19;
 $('#ServiceSelect').change(function() {
   var Svalue = Number($('#ServiceSelect').val());
   AllCheckOff(1,1);
@@ -13,7 +13,7 @@ $('#ServiceSelect').change(function() {
 
     case 2:
     WordAndGenerat(16,20);
-    var CheckNo = [19];
+    var CheckNo = [14];
     CheckNo.forEach(function(value) {SelectCheckOn(value)});
     var MoziNo = [0,1];
     MoziNo.forEach(function(value) {MozikataCheckOn(value)});
