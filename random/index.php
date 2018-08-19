@@ -146,10 +146,6 @@
     <input class="form-check-input" type="checkbox" name="option[]" id="inlineCheckbox18" value="18">
     <label class="form-check-label" for="inlineCheckbox18">/</label>
     </div>
-    <div class="form-check form-check-inline">
-    <input class="form-check-input" type="checkbox" name="option[]" id="inlineCheckbox19" value="19">
-    <label class="form-check-label" for="inlineCheckbox19">.</label>
-    </div>
     </div>
 
     <input class="btn btn-outline-primary" type="submit" value="生成">
