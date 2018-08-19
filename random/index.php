@@ -29,7 +29,7 @@
   <option value="1">エックスサーバーメールパスワード</option>
   <option value="2">エックスサーバーMySQLユーザーパスワード</option>
   </select>
-  <small id="ServiceSelectHelp" class="form-text text-muted">サービスに応じて自動的に項目をセットします。</small>
+  <small id="ServiceSelectHelp" class="form-text text-muted">サービスに応じて自動的に項目をセットします。項目にない場合、自分でチェックを入れる事で必要な文字列を生成します。</small>
   </div>
   <div class="form-group">
   <label for="Mozisuu">文字数</label>
