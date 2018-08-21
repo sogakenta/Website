@@ -4,7 +4,7 @@ $('#ServiceSelect').change(function() {
   AllCheckOff(1,1);
   switch (Svalue) {
     case 1:
-    WordAndGenerat(16,20);
+    WordAndGenerat(15,20);
     var CheckNo = [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18];
     CheckNo.forEach(function(value) {SelectCheckOn(value)});
     var MoziNo = [0,1];
